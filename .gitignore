@@ -1,0 +1,10 @@
+.cache/
+*~
+*.pyc
+.*swp
+*.egg-info/
+deb_dist
+dist
+build
+*__pycache__
+*_local.py
